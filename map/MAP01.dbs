@@ -38,19 +38,19 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 8f;
-		viewpositiony = 32f;
-		viewscale = 0.5f;
+		viewpositionx = 1236.141f;
+		viewpositiony = 1614.214f;
+		viewscale = 0.3937371f;
 		
 		grid
 		{
-			background = "";
-			backsource = 0;
+			background = "G:\\Mi unidad\\Projects\\MODDING\\DoomLogoMap.png";
+			backsource = 2;
 			backoffsetx = 0;
 			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 32;
+			backscalex = 400;
+			backscaley = 400;
+			gridsize = 128;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
