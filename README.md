@@ -24,6 +24,9 @@ El repositorio se organiza en las siguientes carpetas y archivos principales:
 
 ## Capturas del juego
 
+![Banner](cap1.png)
+![Banner](cap2.png)
+
 #### Créditos
 - **Autor:** [@masdlave](https://github.com/masdlave) | Maria Salazar
 - [Vitexus1](https://github.com/Vitexus1) | Diego López de la Llave
