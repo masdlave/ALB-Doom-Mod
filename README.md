@@ -3,7 +3,7 @@
 # ALB Doom Mod
 ### ¿Qué es un mod de Doom?
 
-Un mod de `Doom` es...
+Un mod de `Doom` es una modificación de los archivos del juego. Nuestro mod modifica el primer nivel (MAP01), en específico es un nivel original inspirado en el logo del instituto IES Ana Luisa Benítez.
 
 ### Estructura del Repositorio
 El repositorio se organiza en las siguientes carpetas y archivos principales:
