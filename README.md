@@ -12,6 +12,9 @@ El repositorio se organiza en las siguientes carpetas y archivos principales:
 - **Otro archivo**  
   Incluye ...
 
+![Banner](ingame-map.png)
+![Banner](project-map.png)
+
 > [!NOTE]
 > **El mod de la carpeta _map_ está incompleto**. El archivo estable es el mapa (ALBMAP.wad) que se encuentra en la carpeta `DEFINITIVE EDITION`.
 
