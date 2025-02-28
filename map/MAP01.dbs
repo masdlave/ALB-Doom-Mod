@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "E:\\SteamLibrary\\steamapps\\common\\Ultimate Doom\\base\\doom2\\DOOM2.WAD";
+				location = "E:\\ARCHIVOS\\datos de juegos\\IWADS Doom Clasico\\doom2.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -38,19 +38,19 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 96.8264f;
-		viewpositiony = 1498.042f;
-		viewscale = 0.1792143f;
+		viewpositionx = 1117.738f;
+		viewpositiony = 735.4421f;
+		viewscale = 1.124543f;
 		
 		grid
 		{
-			background = "";
-			backsource = 0;
+			background = "G:\\Mi unidad\\Projects\\MODDING\\DoomLogoMap.png";
+			backsource = 2;
 			backoffsetx = 0;
 			backoffsety = 0;
 			backscalex = 400;
 			backscaley = 400;
-			gridsize = 256;
+			gridsize = 32;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
