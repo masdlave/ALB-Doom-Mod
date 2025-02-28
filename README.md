@@ -28,4 +28,4 @@ El repositorio se organiza en las siguientes carpetas y archivos principales:
 #### Créditos
 - **Autor:** [@masdlave](https://github.com/masdlave) | Maria Salazar
 - [Vitexus1](https://github.com/Vitexus1) | Diego López de la Llave
--[Ultimate Doom Builder](https://ultimatedoombuilder.github.io/)
+- [Ultimate Doom Builder](https://ultimatedoombuilder.github.io/)
