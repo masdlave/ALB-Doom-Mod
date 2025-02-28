@@ -1,5 +1,4 @@
-![Banner]
-
+![Banner](doom-ii.png)
 
 # ALB Doom Mod
 ### ¿Qué es un mod de Doom?
