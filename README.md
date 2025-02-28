@@ -20,7 +20,11 @@ El repositorio se organiza en las siguientes carpetas y archivos principales:
 
 ### Requisitos
 
-- **Herramienta**: Descripción...
+- **GZDOOM**: Es el _source port_ para ejecutar el wad de Doom II. Disponible en [su página oficial](https://zdoom.org/downloads).
+
+- **ZDL**: Para implementar el mod en GZDOOM. Lo puedes [descargar aquí](https://www.moddb.com/mods/brutal-doom/downloads/zdl-final-fixed-version).
+
+- **El juego original**. Necesitas el archivo wad de Steam del juego Doom II.
 
 ## Instrucciones de Instalación y Ejecución
 
