@@ -7,10 +7,10 @@ Un mod de `Doom` es una modificación de los archivos del juego. Nuestro mod mod
 
 ### Estructura del Repositorio
 El repositorio se organiza en las siguientes carpetas y archivos principales:
-- **Archivo**  
-  Contiene ...
-- **Otro archivo**  
-  Incluye ...
+- **map**  
+  Contiene el MAP01.wad con sus modificaciones temporales. **El mod ALB** está situada en el otro directorio llamado _DEFINITIVE EDITION_.
+- **img**  
+  Incluyen los mapas conceptuales del mod. La estructura y organización de las diferentes secciones.
 
 ![Banner](ingame-map.png)
 ![Banner](project-map.png)
@@ -25,8 +25,6 @@ El repositorio se organiza en las siguientes carpetas y archivos principales:
 - **ZDL**: Para implementar el mod en GZDOOM. Lo puedes [descargar aquí](https://www.moddb.com/mods/brutal-doom/downloads/zdl-final-fixed-version).
 
 - **El juego original**. Necesitas el archivo wad de Steam del juego Doom II.
-
-## Instrucciones de Instalación y Ejecución
 
 
 ## Capturas del juego
